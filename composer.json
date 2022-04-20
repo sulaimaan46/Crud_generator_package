@@ -2,7 +2,7 @@
     "name": "m-s/crud",
     "type": "crud",
     "description": "Crud Generator",
-    "keywords": ["m-s", "crud"],
+    "keywords": ["m-s", "crud", "Crud-Generator"],
     "homepage": "https://github.com/sulaimaan46/Crud_generator_package",
     "license": "MIT",
     "authors": [
@@ -42,5 +42,7 @@
             ]
         }
     },
+    "minimum-stability": "dev",
     "prefer-stable": true
+
 }
