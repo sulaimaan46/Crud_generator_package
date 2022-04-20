@@ -41,6 +41,7 @@
                 "HP\\CrudGenrator\\UserAuthServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev"
 
 }
