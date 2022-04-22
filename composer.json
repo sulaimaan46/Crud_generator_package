@@ -12,17 +12,19 @@
             "role": "Developer"
         }
     ],
-    "minimum-stability": "stable",
-
     "require": {
         "php": "^7.2",
-        "illuminate/support" : "^7.0"
+        "illuminate/support" : "^7.0.0"
     },
     "require-dev": {
         "orchestra/testbench": "^8.0",
         "mockery/mockery": "^1.0",
         "phpunit/phpunit": "~8.0"
     },
+    
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+
     "autoload": {
         "psr-4": {
             "HP\\CrudGenrator\\": "src"
