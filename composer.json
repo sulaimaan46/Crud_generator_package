@@ -1,6 +1,5 @@
 {
     "name": "m-s/crud",
-    "type": "library",
     "description": "Crud Generator",
     "keywords": ["m-s", "crud", "Crud-Generator"],
     "homepage": "https://github.com/sulaimaan46/Crud_generator_package",
@@ -12,11 +11,8 @@
             "role": "Developer"
         }
     ],
-    "require": {
-        "php": "^7.2",
-        "illuminate/support" : "^7.0.0"
-    },
-   
+    "require": {},
+
     "minimum-stability": "dev",
     "prefer-stable": true,
 
