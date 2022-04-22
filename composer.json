@@ -1,6 +1,6 @@
 {
     "name": "m-s/crud",
-    "type": "crud",
+    "type": "library",
     "description": "Crud Generator",
     "keywords": ["m-s", "crud", "Crud-Generator"],
     "homepage": "https://github.com/sulaimaan46/Crud_generator_package",
